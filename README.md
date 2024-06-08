@@ -1,3 +1,6 @@
+#Gambar aslinya bisa gerak sayang hanya bentuk ss
+<img width="1320" alt="Screenshot 2024-06-08 at 23 34 01" src="https://github.com/fasyaaa/Tugas10_20220140177_MuhammadAdifaFirmansyah/assets/117921323/a3353a89-25e7-438d-9c7f-d658613c5024">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
